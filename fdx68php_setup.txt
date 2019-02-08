@@ -1,0 +1,5 @@
+
+gitからセットアップファイルを落とす
+wget https://raw.githubusercontent.com/ztto/fdx68-php/master/fdx68php_setup.sh
+chmod 755 fdx68php_setup.sh
+sudo ./fdx68php_setup.sh
